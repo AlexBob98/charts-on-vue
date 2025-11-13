@@ -1,0 +1,132 @@
+[
+  {
+    "id": "revenue",
+    "label": "Выручка, руб",
+    "summaryOnWeek": {
+      "monday": 500521,
+      "tuesday": 480100,
+      "wednesday": 490200,
+      "thursday": 495600,
+      "friday": 500200,
+      "saturday": 600251,
+      "sunday": 420000
+    }
+  },
+  {
+    "id": "cash",
+    "label": "Наличные",
+    "summaryOnWeek": {
+      "monday": 300000,
+      "tuesday": 300000,
+      "wednesday": 300000,
+      "thursday": 300000,
+      "friday": 300000,
+      "saturday": 300000,
+      "sunday": 300000
+    }
+  },
+  {
+    "id": "card",
+    "label": "Безналичный расчет",
+    "summaryOnWeek": {
+      "monday": 100000,
+      "tuesday": 100000,
+      "wednesday": 100000,
+      "thursday": 100000,
+      "friday": 100000,
+      "saturday": 100000,
+      "sunday": 100000
+    }
+  },
+  {
+    "id": "credit",
+    "label": "Кредитные карты",
+    "summaryOnWeek": {
+      "monday": 89900,
+      "tuesday": 90990,
+      "wednesday": 101500,
+      "thursday": 100521,
+      "friday": 101200,
+      "saturday": 100000,
+      "sunday": 100000
+    }
+  },
+  {
+    "id": "avg-check",
+    "label": "Средний чек, руб",
+    "summaryOnWeek": {
+      "monday": 800,
+      "tuesday": 900,
+      "wednesday": 1100,
+      "thursday": 1300,
+      "friday": 1400,
+      "saturday": 1500,
+      "sunday": 1400
+    }
+  },
+  {
+    "id": "avg-guest",
+    "label": "Средний гость, руб",
+    "summaryOnWeek": {
+      "monday": 800,
+      "tuesday": 900,
+      "wednesday": 1100,
+      "thursday": 1300,
+      "friday": 1400,
+      "saturday": 1500,
+      "sunday": 1400
+    }
+  },
+  {
+    "id": "del-after",
+    "label": "Удаления из чека (после оплаты), руб",
+    "summaryOnWeek": {
+      "monday": 800,
+      "tuesday": 900,
+      "wednesday": 1100,
+      "thursday": 1300,
+      "friday": 1400,
+      "saturday": 1500,
+      "sunday": 1400
+    }
+  },
+  {
+    "id": "del-before",
+    "label": "Удаления из чека (до оплаты), руб",
+    "summaryOnWeek": {
+      "monday": 800,
+      "tuesday": 900,
+      "wednesday": 1100,
+      "thursday": 1300,
+      "friday": 1400,
+      "saturday": 1500,
+      "sunday": 1400
+    }
+  },
+  {
+    "id": "checks",
+    "label": "Количество чеков",
+    "summaryOnWeek": {
+      "monday": 34,
+      "tuesday": 32,
+      "wednesday": 50,
+      "thursday": 36,
+      "friday": 38,
+      "saturday": 45,
+      "sunday": 28
+    }
+  },
+  {
+    "id": "guests",
+    "label": "Количество гостей",
+    "summaryOnWeek": {
+      "monday": 34,
+      "tuesday": 32,
+      "wednesday": 33,
+      "thursday": 36,
+      "friday": 38,
+      "saturday": 45,
+      "sunday": 28
+    }
+  }
+]
